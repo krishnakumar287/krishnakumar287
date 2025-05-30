@@ -1,4 +1,8 @@
-# Hi, I'm Krishnakumar 👋
+<!--
+Keywords: Web Developer, UI/UX Designer, React Developer, Frontend Developer, Animation, CSS, Tailwind CSS, JavaScript
+-->
+
+# Hi, I'm Krishnakumar 👋🏻
 
 > _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
 
@@ -16,7 +20,7 @@ React.js, Tailwind CSS, Styled Components, CSS Animations
 JavaScript (ES6+), HTML5, CSS3
 
 🎨 **Design Tools:**  
-Figma,UI/UX Principles
+Figma, UI/UX Principles
 
 🌱 **Other Skills:**  
 Git & GitHub, Responsive Web Design, Accessibility
@@ -25,14 +29,19 @@ Git & GitHub, Responsive Web Design, Accessibility
 
 ### 📈 GitHub Stats
 
-![Krishnakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakumar287&show_icons=true&theme=blue-green)
+[![Krishnakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakumar287&show_icons=true&theme=blue-green)](https://github.com/krishnakumar287)
 
 ---
 
-### 📫 Connect with Me
+### 🛠️ Top Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishnakumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishnakumar-s2005)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-krishnakumar287.github.io-blueviolet?style=flat&logo=firefox)](https://krishnakumar287.github.io/Portfolio/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar287&layout=compact&theme=blue-green)](https://github.com/krishnakumar287)
+
+---
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishnakumar287&theme=onedark)](https://github.com/krishnakumar287)
 
 ---
 
@@ -43,3 +52,24 @@ Git & GitHub, Responsive Web Design, Accessibility
 - Exploring design systems and atomic design
 
 ---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishnakumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishnakumar-s2005)  
+📧 **Email:** [krishnakuma.s1973@gmail.com](mailto:krishnakuma.s1973@gmail.com)  
+
+---
+
+### 🤝 Let’s Connect!
+
+I’m open to collaborating on exciting projects and internships.  
+Feel free to reach out on LinkedIn or send me an email.
+
+---
+
+<p align="center">  
+  <sub>Last updated on  
+  <b>May 30, 2025</b></sub>  
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=krishnakumar287)
